@@ -19,12 +19,12 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 1px;">
   <img align="center" alt="Matheus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="margin-right: 4px;">
   <img align="center" alt="Matheus-C++" height="30" width="32" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" style="margin-right: 8px;">
-  <img align="center" alt="Matheus-Java" height="30" width="32" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="margin-right: 10px;">
-  <img align="center" alt="Matheus-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="margin-right: 12px;">
-<img align="center" alt="Matheus-SQL Server" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" style="margin-right: 12px;">
-<img align="center" alt="Matheus-Android" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" style="margin-right: 10px;">
+  <img align="center" alt="Matheus-Java" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="margin-right: 10px;">
+  <img align="center" alt="Matheus-MySQL" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="margin-right: 12px;">
+<img align="center" alt="Matheus-SQL Server" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" style="margin-right: 12px;">
+<img align="center" alt="Matheus-Android" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" style="margin-right: 10px;">
 <br><br>
-<img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" >
+<img align="center" alt="Matheus-Flutter" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" >
   </div><br><br>
 
 <div align="left">
